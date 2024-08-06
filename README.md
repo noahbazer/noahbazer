@@ -20,4 +20,4 @@ I love taking a problem I've found and engineering a solution for it from the gr
 
 [Aelar Fourcrest Card](https://www.fourcrest.xyz) is my attempt at taking a widely-used static landing page creator (Carrd, typically used for custom character information) and providing more personal, fully customizable, and cheaper alternatives. I believe that everyone should be able to express themselves and their works without needing a tacky subscription for basic features. It's a work in progress, but it's already being used by a few people and has been well-received.
 
-[My Portfolio](https://noahbazer.dev) is my personal portfolio, where I showcase my skills and projects. I built it from scratch using React and Tailwind CSS, and it's been a great way to show off my work to potential clients and employers.
+[My Portfolio](https://noahbazer.dev) is my personal portfolio, where I showcase my skills and projects. I built it from scratch using only vanilla languages, and it's been a great way to show off my work to potential clients and employers, as well as develop a firmer understanding of base technologies without all of the bells and whistles.
